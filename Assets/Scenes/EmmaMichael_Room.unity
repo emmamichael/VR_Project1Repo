@@ -4576,7 +4576,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1304530879}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 1.296, y: 0, z: -0.472}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 136602114}
@@ -4601,12 +4601,12 @@ MonoBehaviour:
     m_Name: Main Camera - TPD - Position
     m_Type: 0
     m_ExpectedControlType: Vector3
-    m_Id: 
+    m_Id: c15769ca-36c7-48ad-adf4-3b7fba3de2d3
     m_Processors: 
     m_Interactions: 
     m_SingletonActionBindings:
     - m_Name: 
-      m_Id: 
+      m_Id: 0d48d400-a551-4a5f-8952-94b84791f1b1
       m_Path: <XRHMD>/centerEyePosition
       m_Interactions: 
       m_Processors: 
@@ -4617,12 +4617,12 @@ MonoBehaviour:
     m_Name: Main Camera - TPD - Rotation
     m_Type: 0
     m_ExpectedControlType: Quaternion
-    m_Id: 
+    m_Id: 993ec540-1e0c-4cad-9d62-052d98eb15f9
     m_Processors: 
     m_Interactions: 
     m_SingletonActionBindings:
     - m_Name: 
-      m_Id: 
+      m_Id: 082abb24-5a2b-4058-9a19-4ff3b6a0d10b
       m_Path: <XRHMD>/centerEyeRotation
       m_Interactions: 
       m_Processors: 
