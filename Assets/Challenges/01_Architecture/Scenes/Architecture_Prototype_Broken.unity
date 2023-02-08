@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18198584, g: 0.22767556, b: 0.30740732, a: 1}
+  m_IndirectSpecularColor: {r: 0.1819855, g: 0.22767507, b: 0.3074066, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 21531260}
   - component: {fileID: 21531262}
   - component: {fileID: 21531261}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Paper (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7015,7 +7015,7 @@ GameObject:
   - component: {fileID: 1110435224}
   - component: {fileID: 1110435226}
   - component: {fileID: 1110435225}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Paper (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10443,7 +10443,7 @@ GameObject:
   - component: {fileID: 1557730425}
   - component: {fileID: 1557730427}
   - component: {fileID: 1557730426}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Paper (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10592,8 +10592,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1610036680}
   m_LocalRotation: {x: -0, y: -0.9238795, z: -0, w: -0.38268355}
-  m_LocalPosition: {x: 8.616, y: 0.553, z: 1.829}
-  m_LocalScale: {x: 0.20092131, y: 0.17273207, z: 0.20092131}
+  m_LocalPosition: {x: 8.95, y: 0.55, z: 1.5}
+  m_LocalScale: {x: 0.39741462, y: 0.49772656, z: 0.39741462}
   m_Children:
   - {fileID: 1070761132}
   - {fileID: 393398080}
@@ -14930,13 +14930,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4192598239703559147}
-  m_LocalRotation: {x: 0.0000002533197, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.13999999, y: -0.13, z: -0.006000012}
+  m_LocalRotation: {x: 0.0000001791241, y: 0.70710665, z: 0.00000017912403, w: 0.70710695}
+  m_LocalPosition: {x: -0.008, y: -0.02, z: -0.006}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4844571851191685985}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!33 &566986463069764467
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -26722,7 +26722,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 565964061512709315}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Attach
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27195,8 +27195,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8368083381408551897}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.028, y: 0.871, z: -0.58}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 8.47, y: 1.039, z: -0.11}
+  m_LocalScale: {x: 1, y: 2, z: 1}
   m_Children:
   - {fileID: 6604879599737858899}
   m_Father: {fileID: 0}
@@ -27272,7 +27272,7 @@ GameObject:
   - component: {fileID: 4844571851191685985}
   - component: {fileID: 4844571851191685991}
   - component: {fileID: 4844571851191685990}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Clipboard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27287,7 +27287,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4844571851191685984}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.22, y: 1.071, z: -0.4}
+  m_LocalPosition: {x: 7.79, y: 1.071, z: 0.42}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 3830883702251391052}
@@ -27312,7 +27312,7 @@ MonoBehaviour:
   - {fileID: 4844571851604532742}
   m_InteractionLayerMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   m_CustomReticle: {fileID: 0}
   m_FirstHoverEntered:
     m_PersistentCalls:
@@ -27428,7 +27428,7 @@ GameObject:
   - component: {fileID: 4844571851544369062}
   - component: {fileID: 4844571851544369060}
   - component: {fileID: 4844571851544369063}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Paper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27509,7 +27509,7 @@ GameObject:
   - component: {fileID: 4844571851574380026}
   - component: {fileID: 4844571851574380025}
   - component: {fileID: 4844571851574380024}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Clip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27591,7 +27591,7 @@ GameObject:
   - component: {fileID: 4844571851604532740}
   - component: {fileID: 4844571851604532743}
   - component: {fileID: 4844571851604532742}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Backing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28629,7 +28629,7 @@ MonoBehaviour:
   m_Colliders: []
   m_InteractionLayerMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   m_CustomReticle: {fileID: 0}
   m_FirstHoverEntered:
     m_PersistentCalls:
@@ -28975,7 +28975,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3830883702251391052}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29276,7 +29276,7 @@ GameObject:
   - component: {fileID: 6676410638485568776}
   - component: {fileID: 6676410638485568775}
   - component: {fileID: 6676410638485568774}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30503,7 +30503,7 @@ GameObject:
   - component: {fileID: 4809505777395726078}
   - component: {fileID: 5532377344757039496}
   - component: {fileID: 6069904500843224116}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Measuring Stick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
